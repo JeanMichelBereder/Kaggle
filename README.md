@@ -9,3 +9,4 @@ I'm still a beginner at Kaggle, but I'm going to try and see how much of a diffe
 |  Name  |  Competition URL  | Code URL | Best public score |
 | ---- | ---- | ---- | ---- | 
 |  Titanic - Machine Learning from Disaster  |  https://www.kaggle.com/c/titanic/ | https://github.com/JeanMichelBereder/Kaggle/blob/main/kaggle-titanic.ipynb| 0.71770 |
+|  House Prices - Advanced Regression Techniques  |  https://www.kaggle.com/c/house-prices-advanced-regression-techniques/ | https://github.com/JeanMichelBereder/Kaggle/blob/main/kaggle-house-prices.ipynb | *No submissions yet* |
